@@ -1,0 +1,12 @@
+{
+    "conn_dbdw": {
+      "conn_type": "postgres",
+      "description": "",
+      "login": "postgres",
+      "password": "postgres",
+      "host": "10.3.152.158",
+      "port": 10001,
+      "schema": "dbdw",
+      "extra": "{}"
+    }
+  }

@@ -1,0 +1,4 @@
+airflow
+datawarehouse-db
+.venv/*
+__pycache__

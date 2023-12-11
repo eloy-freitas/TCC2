@@ -1,0 +1,1 @@
+from .stg_relatorio_template import STGRelatorioTemplate

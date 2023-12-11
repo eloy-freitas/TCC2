@@ -1,0 +1,1 @@
+from .dag_stg_relatorio import STGRelatorioFactory
